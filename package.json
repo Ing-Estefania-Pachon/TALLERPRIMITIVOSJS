@@ -1,0 +1,23 @@
+{
+  "name": "tallerprimitivosjs",
+  "version": "1.0.0",
+  "description": "Este taller tiene como objetivo introducir los conceptos básicos de **JavaScript**, incluyendo variables, tipos de datos primitivos, entrada de datos, condicionales y bucles.",
+  "main": "IngresoDatos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ing-Estefania-Pachon/TALLERPRIMITIVOSJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ing-Estefania-Pachon/TALLERPRIMITIVOSJS/issues"
+  },
+  "homepage": "https://github.com/Ing-Estefania-Pachon/TALLERPRIMITIVOSJS#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
